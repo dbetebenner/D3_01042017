@@ -10,5 +10,5 @@ SVG elements outlined in Malcolm Maclean's [D3.js Tips and Tricks V4](https://le
 
 * [Source Code Gist](https://gist.github.com/dbetebenner/12ec7b09b1385bf171b282542d9072a7)
 * [Bl.ocks.org View](http://bl.ocks.org/dbetebenner/12ec7b09b1385bf171b282542d9072a7)
-* [Blockbuilder.org View](http://blockbuilder.org/dbetebenner/i12ec7b09b1385bf171b282542d9072a7)
+* [Blockbuilder.org View](http://blockbuilder.org/dbetebenner/12ec7b09b1385bf171b282542d9072a7)
 * [Github Pages View](https://dbetebenner.github.io/D3_01042017/)
