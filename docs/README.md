@@ -5,6 +5,7 @@
 New Year's Resolution for 2017: Make a D3 Block a day to teach myself D3. This is Number 4. This example
 tries to implement the [bar chart from January 1st](https://github.com/dbetebenner/D3_01012017) using
 SVG elements outlined in Malcolm Maclean's [D3.js Tips and Tricks V4](https://leanpub.com/d3-t-and-t-v4/read).
+The [vertical labels in this visualization](https://github.com/dbetebenner/D3_01042017/blob/master/docs/index.html#L63-L72) were tricky part (for me) in this one. 
 
 ## Results
 
