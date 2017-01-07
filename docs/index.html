@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<head>
+    <title>D3 Block-a-Day: Day 4, January 4, 2017</title>
 	<style> /* set the CSS */
 
 		body { font: 20px Helvetica Neue; background: #fff}
@@ -11,6 +13,7 @@
 
 
 	</style>
+</head>
 <body>
 
 <script src="//d3js.org/d3.v4.min.js"></script>
@@ -70,13 +73,13 @@ d3.csv("school_proficiency_data.csv", function(error, data) {
      .attr('transform', function(d) { return 'translate(' + x(d.school_name) + ',' + y(d.percent_proficient) + ') rotate(90)'})
 
       .text(function(d) {return d.school_name});
-  
-  
+
+
 	// add the y Axis
   svg.append("g")
         .call(d3.axisLeft(y))
         .attr("class", "yaxis");
-  
+
    // text label for the y axis
    svg.append("text")
       .attr("transform", "rotate(-90)")
